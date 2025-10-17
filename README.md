@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-**Visit my portfolio:** [yourusername.github.io](https://ayushd999.github.io)
+**Visit my portfolio:** [ayushd999.github.io](https://ayushd999.github.io)
 
 ---
 
